@@ -1,0 +1,2946 @@
+[
+  {
+    "id": "TARANTULA_RING",
+    "name": "Tarantula Ring",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ARCHAEOLOGIST_COMPASS",
+    "name": "Archaeologist's Compass",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ANITA_TALISMAN",
+    "name": "Anita's Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PESTHUNTER_RING",
+    "name": "Pesthunter Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ANITA_ARTIFACT",
+    "name": "Anita's Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ANITA_RING",
+    "name": "Anita's Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PESTHUNTER_BADGE",
+    "name": "Pesthunter Badge",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PESTHUNTER_ARTIFACT",
+    "name": "Pesthunter Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PARTY_HAT_SLOTH",
+    "name": "Sloth Hat of Celebration",
+    "rarity": "SPECIAL",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PARTY_HAT_CRAB_ANIMATED",
+    "name": "Crab Hat of Celebration - 2022 Edition",
+    "rarity": "SPECIAL",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PARTY_HAT_CRAB",
+    "name": "Crab Hat of Celebration",
+    "rarity": "SPECIAL",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FISH_AFFINITY_TALISMAN",
+    "name": "Fish Affinity Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FROZEN_CHICKEN",
+    "name": "Frozen Chicken",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FRIED_FROZEN_CHICKEN",
+    "name": "Fried Frozen Chicken",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JUNK_TALISMAN",
+    "name": "Junk Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JUNK_RING",
+    "name": "Junk Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JUNK_ARTIFACT",
+    "name": "Junk Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CENTURY_TALISMAN",
+    "name": "Talisman of the Century",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RUNEBOOK",
+    "name": "Runebook",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CENTURY_RING",
+    "name": "Ring of the Century",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PRESTIGE_CHOCOLATE_REALM",
+    "name": "Prestige Chocolate Realm",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RICH_CHOCOLATE_CHUNK",
+    "name": "Rich Chocolate Chunk",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "NIBBLE_CHOCOLATE_STICK",
+    "name": "Nibble Chocolate Stick",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GANACHE_CHOCOLATE_SLAB",
+    "name": "Ganache Chocolate Slab",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SMOOTH_CHOCOLATE_BAR",
+    "name": "Smooth Chocolate Bar",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GREAT_SPOOK_TALISMAN",
+    "name": "Great Spook Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GREAT_SPOOK_ARTIFACT",
+    "name": "Great Spook Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GREAT_SPOOK_RING",
+    "name": "Great Spook Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BITS_TALISMAN",
+    "name": "Bits Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ABICASE",
+    "name": "Abicase",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MINERAL_TALISMAN",
+    "name": "Mineral Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GLOSSY_MINERAL_TALISMAN",
+    "name": "Glossy Mineral Talisman",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SCAVENGER_ARTIFACT",
+    "name": "Scavenger Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SCAVENGER_RING",
+    "name": "Scavenger Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BEASTMASTER_CREST_COMMON",
+    "name": "Beastmaster Crest",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BEASTMASTER_CREST_LEGENDARY",
+    "name": "Beastmaster Crest",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BEASTMASTER_CREST_EPIC",
+    "name": "Beastmaster Crest",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BEASTMASTER_CREST_UNCOMMON",
+    "name": "Beastmaster Crest",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BEASTMASTER_CREST_RARE",
+    "name": "Beastmaster Crest",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JERRY_TALISMAN_BLUE",
+    "name": "Blue Jerry Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JERRY_TALISMAN_GREEN",
+    "name": "Green Jerry Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JERRY_TALISMAN_GOLDEN",
+    "name": "Golden Jerry Artifact",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JERRY_TALISMAN_PURPLE",
+    "name": "Purple Jerry Talisman",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HEGEMONY_ARTIFACT",
+    "name": "Hegemony Artifact",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DULL_SHARK_TOOTH_NECKLACE",
+    "name": "Dull Shark Tooth Necklace",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RAGGEDY_SHARK_TOOTH_NECKLACE",
+    "name": "Raggedy Shark Tooth Necklace",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HONED_SHARK_TOOTH_NECKLACE",
+    "name": "Honed Shark Tooth Necklace",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SHARP_SHARK_TOOTH_NECKLACE",
+    "name": "Sharp Shark Tooth Necklace",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RAZOR_SHARP_SHARK_TOOTH_NECKLACE",
+    "name": "Razor-sharp Shark Tooth Necklace",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BINGO_RELIC",
+    "name": "Bingo Relic",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BINGO_HEIRLOOM",
+    "name": "Bingo Heirloom",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BINGO_TALISMAN",
+    "name": "Bingo Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BINGO_RING",
+    "name": "Bingo Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BINGO_ARTIFACT",
+    "name": "Bingo Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BUCKET_OF_DYE",
+    "name": "Bucket of Dye",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SEA_CREATURE_TALISMAN",
+    "name": "Sea Creature Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "INTIMIDATION_ARTIFACT",
+    "name": "Intimidation Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ODGERS_BRONZE_TOOTH",
+    "name": "Odger's Bronze Tooth",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "LUCK_TALISMAN",
+    "name": "Luck Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SCARF_THESIS",
+    "name": "Scarf's Thesis",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "POWER_ARTIFACT",
+    "name": "Artifact of Power",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BAT_PERSON_ARTIFACT",
+    "name": "Bat Person Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WOLF_PAW",
+    "name": "Wolf Paw",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FEATHER_ARTIFACT",
+    "name": "Feather Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "NIGHT_VISION_CHARM",
+    "name": "Night Vision Charm",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PERSONAL_DELETOR_4000",
+    "name": "Personal Deletor 4000",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TALISMAN_OF_SPACE",
+    "name": "Talisman of Space",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "LAVA_TALISMAN",
+    "name": "Lava Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "COIN_TALISMAN",
+    "name": "Talisman of Coins",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_4",
+    "name": "Master Skull - Tier 4",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "INTIMIDATION_RING",
+    "name": "Intimidation Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HEALING_RING",
+    "name": "Healing Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BAT_ARTIFACT",
+    "name": "Bat Artifact",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "EMERALD_ARTIFACT",
+    "name": "Emerald Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SEAL_RING",
+    "name": "Seal Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ARTIFACT_OF_COINS",
+    "name": "Artifact of Coins",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "NEW_YEAR_CAKE_BAG",
+    "name": "New Year Cake Bag",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RING_OF_COINS",
+    "name": "Ring of Coins",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FIRE_TALISMAN",
+    "name": "Fire Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ODGERS_GOLD_TOOTH",
+    "name": "Odger's Gold Tooth",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TITANIUM_RELIC",
+    "name": "Titanium Relic",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TITANIUM_ARTIFACT",
+    "name": "Titanium Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WOOD_TALISMAN",
+    "name": "Wood Affinity Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CRACKED_PIGGY_BANK",
+    "name": "Cracked Piggy Bank",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TITANIUM_RING",
+    "name": "Titanium Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "VACCINE_RING",
+    "name": "Vaccine Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SEA_CREATURE_RING",
+    "name": "Sea Creature Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SHADY_RING",
+    "name": "Shady Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FEATHER_TALISMAN",
+    "name": "Feather Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PERSONAL_COMPACTOR_6000",
+    "name": "Personal Compactor 6000",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TITANIUM_TALISMAN",
+    "name": "Titanium Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HASTE_RING",
+    "name": "Haste Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CHEETAH_TALISMAN",
+    "name": "Cheetah Talisman",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FARMER_ORB",
+    "name": "Farmer Orb",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RING_OF_SPACE",
+    "name": "Ring of Space",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ODGERS_DIAMOND_TOOTH",
+    "name": "Odger's Diamond Tooth",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PERSONAL_COMPACTOR_4000",
+    "name": "Personal Compactor 4000",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CANDY_RELIC",
+    "name": "Candy Relic",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "LUCKY_HOOF",
+    "name": "Lucky Hoof",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GRAVITY_TALISMAN",
+    "name": "Gravity Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BAIT_RING",
+    "name": "Bait Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JACOBUS_REGISTER",
+    "name": "Jacobus Register",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_1",
+    "name": "Master Skull - Tier 1",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_5",
+    "name": "Master Skull - Tier 5",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PERSONAL_DELETOR_7000",
+    "name": "Personal Deletor 7000",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CATACOMBS_EXPERT_RING",
+    "name": "Catacombs Expert Ring",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SCARF_STUDIES",
+    "name": "Scarf's Studies",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BAT_PERSON_RING",
+    "name": "Bat Person Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SPIKED_ATROCITY",
+    "name": "Spiked Atrocity",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PIGS_FOOT",
+    "name": "Pig's Foot",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_10",
+    "name": "Master Skull - Tier 10",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SPEED_RING",
+    "name": "Speed Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HASTE_ARTIFACT",
+    "name": "Haste Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DAY_CRYSTAL",
+    "name": "Day Crystal",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WITHER_ARTIFACT",
+    "name": "Wither Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SEAL_OF_THE_FAMILY",
+    "name": "Seal of the Family",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SPEED_ARTIFACT",
+    "name": "Speed Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WITHER_RELIC",
+    "name": "Wither Relic",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "AUTO_RECOMBOBULATOR",
+    "name": "Auto Recombobulator",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "COMPASS_TALISMAN",
+    "name": "Compass Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FIERY_KUUDRA_CORE",
+    "name": "Fiery Kuudra Core",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "VILLAGE_TALISMAN",
+    "name": "Village Affinity Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ARTIFACT_POTION_AFFINITY",
+    "name": "Potion Affinity Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "VACCINE_ARTIFACT",
+    "name": "Vaccine Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PERSONAL_DELETOR_6000",
+    "name": "Personal Deletor 6000",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_7",
+    "name": "Master Skull - Tier 7",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MINE_TALISMAN",
+    "name": "Mine Affinity Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TREASURE_RING",
+    "name": "Treasure Ring",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WOLF_TALISMAN",
+    "name": "Wolf Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DANTE_TALISMAN",
+    "name": "Dante Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BURNING_KUUDRA_CORE",
+    "name": "Burning Kuudra Core",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_8",
+    "name": "Master Skull - Tier 8",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ARTIFACT_OF_SPACE",
+    "name": "Artifact of Space",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DANTE_RING",
+    "name": "Dante Ring",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "EMERALD_RING",
+    "name": "Emerald Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "NETHER_ARTIFACT",
+    "name": "Nether Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PIGGY_BANK",
+    "name": "Piggy Bank",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "POTATO_TALISMAN",
+    "name": "Potato Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PERSONAL_DELETOR_5000",
+    "name": "Personal Deletor 5000",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "KUUDRA_FOLLOWER_RELIC",
+    "name": "Kuudra Follower Relic",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "NIGHT_CRYSTAL",
+    "name": "Night Crystal",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SHENS_REGALIA",
+    "name": "Shen's Regalia",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ETERNAL_HOOF",
+    "name": "Eternal Hoof",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SPEED_TALISMAN",
+    "name": "Speed Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SCAVENGER_TALISMAN",
+    "name": "Scavenger Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "INTIMIDATION_RELIC",
+    "name": "Intimidation Relic",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HEALING_TALISMAN",
+    "name": "Healing Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BAT_TALISMAN",
+    "name": "Bat Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MAGNETIC_TALISMAN",
+    "name": "Magnetic Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GRIZZLY_PAW",
+    "name": "Grizzly Paw",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ODGERS_SILVER_TOOTH",
+    "name": "Odger's Silver Tooth",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "POTION_AFFINITY_TALISMAN",
+    "name": "Potion Affinity Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WOLF_RING",
+    "name": "Wolf Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_2",
+    "name": "Master Skull - Tier 2",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RELIC_OF_COINS",
+    "name": "Relic of Coins",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "INTIMIDATION_TALISMAN",
+    "name": "Intimidation Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PANDORAS_BOX",
+    "name": "Pandora's Box",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SCARF_GRIMOIRE",
+    "name": "Scarf's Grimoire",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "LYNX_TALISMAN",
+    "name": "Lynx Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BAT_PERSON_TALISMAN",
+    "name": "Bat Person Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CANDY_ARTIFACT",
+    "name": "Candy Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TREASURE_TALISMAN",
+    "name": "Treasure Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ARTIFACT_OF_CONTROL",
+    "name": "Artifact of Control",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CARNIVAL_MASK_BAG",
+    "name": "Carnival Mask Bag",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BROKEN_PIGGY_BANK",
+    "name": "Broken Piggy Bank",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CANDY_RING",
+    "name": "Candy Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CROOKED_ARTIFACT",
+    "name": "Crooked Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "KING_TALISMAN",
+    "name": "King Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PERSONAL_COMPACTOR_7000",
+    "name": "Personal Compactor 7000",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FEATHER_RING",
+    "name": "Feather Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PERSONAL_COMPACTOR_5000",
+    "name": "Personal Compactor 5000",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_3",
+    "name": "Master Skull - Tier 3",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SPIDER_TALISMAN",
+    "name": "Spider Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BAT_RING",
+    "name": "Bat Ring",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "VACCINE_TALISMAN",
+    "name": "Vaccine Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ETERNAL_CRYSTAL",
+    "name": "Eternal Crystal",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FARMING_TALISMAN",
+    "name": "Farming Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SKELETON_TALISMAN",
+    "name": "Skeleton Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_6",
+    "name": "Master Skull - Tier 6",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SEA_CREATURE_ARTIFACT",
+    "name": "Sea Creature Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MASTER_SKULL_TIER_9",
+    "name": "Master Skull - Tier 9",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RING_POTION_AFFINITY",
+    "name": "Potion Affinity Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "INFERNAL_KUUDRA_CORE",
+    "name": "Infernal Kuudra Core",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JUNGLE_AMULET",
+    "name": "Jungle Amulet",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAT_TALISMAN",
+    "name": "Cat Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "POWER_TALISMAN",
+    "name": "Talisman of Power",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "POWER_RING",
+    "name": "Ring of Power",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ZOMBIE_TALISMAN",
+    "name": "Zombie Talisman",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SEAL_TALISMAN",
+    "name": "Seal Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "OLD_BOOT",
+    "name": "Old Boot",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "EXPERIENCE_ARTIFACT",
+    "name": "Experience Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CANDY_TALISMAN",
+    "name": "Candy Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BLOOD_GOD_CREST",
+    "name": "Blood God Crest",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TREASURE_ARTIFACT",
+    "name": "Treasure Artifact",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BOOK_OF_PROGRESSION",
+    "name": "Book of Progression",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BLAZE_TALISMAN",
+    "name": "Blaze Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BURSTSTOPPER_ARTIFACT",
+    "name": "Burststopper Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BURSTSTOPPER_TALISMAN",
+    "name": "Burststopper Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOULFLOW_SUPERCELL",
+    "name": "Soulflow Supercell",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ENDER_RELIC",
+    "name": "Ender Relic",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HANDY_BLOOD_CHALICE",
+    "name": "Handy Blood Chalice",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "POCKET_ESPRESSO_MACHINE",
+    "name": "Pocket Espresso Machine",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOULFLOW_PILE",
+    "name": "Soulflow Pile",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOULFLOW_BATTERY",
+    "name": "Soulflow Battery",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TARANTULA_TALISMAN",
+    "name": "Tarantula Talisman",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SURVIVOR_CUBE",
+    "name": "Survivor Cube",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SPIDER_ARTIFACT",
+    "name": "Spider Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SPIDER_RING",
+    "name": "Spider Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "REAPER_ORB",
+    "name": "Reaper Orb",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ZOMBIE_RING",
+    "name": "Zombie Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ZOMBIE_ARTIFACT",
+    "name": "Zombie Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DEVOUR_RING",
+    "name": "Devour Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HUNTER_TALISMAN",
+    "name": "Hunter Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HUNTER_RING",
+    "name": "Hunter Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RED_CLAW_RING",
+    "name": "Red Claw Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RED_CLAW_ARTIFACT",
+    "name": "Red Claw Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RED_CLAW_TALISMAN",
+    "name": "Red Claw Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DWARVEN_METAL",
+    "name": "Dwarven Metal Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "POWER_RELIC",
+    "name": "Relic of Power",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SQUASH_RING",
+    "name": "Squash Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CROPIE_TALISMAN",
+    "name": "Cropie Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ATMOSPHERIC_FILTER",
+    "name": "Atmospheric Filter",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "JAKE_PLUSHIE",
+    "name": "Jake's Plushie",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FERMENTO_ARTIFACT",
+    "name": "Fermento Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BLUE_GIFT_TALISMAN",
+    "name": "Blue Gift Talisman",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PURPLE_GIFT_TALISMAN",
+    "name": "Purple Gift Talisman",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GOLD_GIFT_TALISMAN",
+    "name": "Gold Gift Talisman",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WHITE_GIFT_TALISMAN",
+    "name": "White Gift Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GREEN_GIFT_TALISMAN",
+    "name": "Green Gift Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GLACIAL_RING",
+    "name": "Glacial Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GLACIAL_ARTIFACT",
+    "name": "Glacial Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GLACIAL_TALISMAN",
+    "name": "Glacial Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "FUTURE_CALORIES",
+    "name": "Future Calories Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RIFT_PRISM",
+    "name": "Rift Prism",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PUNCHCARD_ARTIFACT",
+    "name": "Punchcard Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WARDING_TRINKET",
+    "name": "Warding Trinket",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HARMONIOUS_SURGERY_TOOLKIT",
+    "name": "Harmonious Surgery Toolkit",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CRUX_TALISMAN_7",
+    "name": "Celestial Starstone",
+    "rarity": "SUPREME",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CRUX_TALISMAN_4",
+    "name": "Crux Relic",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CRUX_TALISMAN_3",
+    "name": "Crux Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CRUX_TALISMAN_2",
+    "name": "Crux Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CRUX_TALISMAN_5",
+    "name": "Crux Heirloom",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CRUX_TALISMAN_1",
+    "name": "Crux Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CRUX_TALISMAN_6",
+    "name": "Crux Chronomicon",
+    "rarity": "MYTHIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "IQ_POINT",
+    "name": "IQ Point",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RING_OF_BROKEN_LOVE",
+    "name": "Ring of Broken Love",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RING_OF_ETERNAL_LOVE",
+    "name": "Ring of Eternal Love",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TWO_IQ_POINT",
+    "name": "2 IQ Points",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ARGOFAY_TRINKET",
+    "name": "Argofay Trinket",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DEFECTIVE_MONITOR",
+    "name": "Defective Monitor",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BLUERTOOTH_RING",
+    "name": "Bluertooth Ring",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BLUETOOTH_RING",
+    "name": "Bluetooth Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "LUSH_RING",
+    "name": "Lush Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "LUSH_ARTIFACT",
+    "name": "Lush Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "LUSH_TALISMAN",
+    "name": "Lush Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "AGARIMOO_TALISMAN",
+    "name": "Agarimoo Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "AGARIMOO_RING",
+    "name": "Agarimoo Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "AGARIMOO_ARTIFACT",
+    "name": "Agarimoo Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "HOCUS_POCUS_CIPHER",
+    "name": "Hocus-Pocus Cipher",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SATELITE",
+    "name": "Satelite",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "COMBO_MANIA_TALISMAN",
+    "name": "Combo Mania",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TINY_DANCER",
+    "name": "Tiny Dancer",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TEST_BUCKET_PLEASE_IGNORE",
+    "name": "Test Bucket Please Ignore",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BIG_BRAIN_TALISMAN",
+    "name": "Big Brain Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MINIATURIZED_TUBULATOR",
+    "name": "Miniaturized Tubulator",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GARLIC_FLAVORED_GUMMY_BEAR",
+    "name": "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BLOOD_DONOR_RING",
+    "name": "Blood Donor Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BLOOD_DONOR_ARTIFACT",
+    "name": "Blood Donor Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "BLOOD_DONOR_TALISMAN",
+    "name": "Blood Donor Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "VAMPIRE_DENTIST_RELIC",
+    "name": "Vampire Dentist Relic",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DRACONIC_ARTIFACT",
+    "name": "Draconic Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DRACONIC_RING",
+    "name": "Draconic Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "ENDER_ARTIFACT",
+    "name": "Ender Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "DRACONIC_TALISMAN",
+    "name": "Draconic Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RESPIRATION_ARTIFACT",
+    "name": "Respiration Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RESPIRATION_RING",
+    "name": "Respiration Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RESPIRATION_TALISMAN",
+    "name": "Respiration Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MOONGLADE_ARTIFACT",
+    "name": "Moonglade Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MOONGLADE_TALISMAN",
+    "name": "Moonglade Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MOONGLADE_RING",
+    "name": "Moonglade Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "EMPEROR_ARTIFACT",
+    "name": "Emperor's Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "EMPEROR_RING",
+    "name": "Emperor's Ring",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "EMPEROR_TALISMAN",
+    "name": "Emperor's Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PRESSURE_ARTIFACT",
+    "name": "Pressure Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PRESSURE_TALISMAN",
+    "name": "Pressure Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PRESSURE_RING",
+    "name": "Pressure Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RUNEBLADE_RING",
+    "name": "Runeblade Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RUNEBLADE_TALISMAN",
+    "name": "Runeblade Talisman",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "RUNEBLADE_ARTIFACT",
+    "name": "Runeblade Artifact",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_3",
+    "name": "Soul Campfire Initiate Badge III",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_28",
+    "name": "Soul Campfire God Badge VIII",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_20",
+    "name": "Soul Campfire Scion Badge VIII",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_4",
+    "name": "Soul Campfire Adept Badge I",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_23",
+    "name": "Soul Campfire God Badge III",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_15",
+    "name": "Soul Campfire Scion Badge III",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_24",
+    "name": "Soul Campfire God Badge IV",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_11",
+    "name": "Soul Campfire Cultist Badge IV",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_16",
+    "name": "Soul Campfire Scion Badge IV",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_6",
+    "name": "Soul Campfire Adept Badge III",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_29",
+    "name": "Soul Campfire God Badge IX",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_12",
+    "name": "Soul Campfire Cultist Badge V",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_1",
+    "name": "Soul Campfire Initiate Badge I",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_10",
+    "name": "Soul Campfire Cultist Badge III",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_2",
+    "name": "Soul Campfire Initiate Badge II",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_17",
+    "name": "Soul Campfire Scion Badge V",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_14",
+    "name": "Soul Campfire Scion Badge II",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_13",
+    "name": "Soul Campfire Scion Badge I",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_7",
+    "name": "Soul Campfire Adept Badge IV",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_18",
+    "name": "Soul Campfire Scion Badge VI",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_27",
+    "name": "Soul Campfire God Badge VII",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_21",
+    "name": "Soul Campfire God Badge I",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_19",
+    "name": "Soul Campfire Scion Badge VII",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_25",
+    "name": "Soul Campfire God Badge V",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_26",
+    "name": "Soul Campfire God Badge VI",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_22",
+    "name": "Soul Campfire God Badge II",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_8",
+    "name": "Soul Campfire Cultist Badge I",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_5",
+    "name": "Soul Campfire Adept Badge II",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SOUL_CAMPFIRE_TALISMAN_9",
+    "name": "Soul Campfire Cultist Badge II",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "LARGE_FISH_BOWL",
+    "name": "Large Fish Bowl",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MEDIUM_FISH_BOWL",
+    "name": "Medium Fish Bowl",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "SMALL_FISH_BOWL",
+    "name": "Small Fish Bowl",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CHUMMING_TALISMAN",
+    "name": "Chumming Talisman",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "TRAPPER_CREST",
+    "name": "Trapper Crest",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "GENERAL_MEDALLION",
+    "name": "General's Medallion",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "PULSE_RING",
+    "name": "Pulse Ring",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "KUUDRA_FOLLOWER_ARTIFACT",
+    "name": "Kuudra Follower Artifact",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "NETHERRACK_LOOKING_SUNSHADE",
+    "name": "Netherrack-Looking Sunshade",
+    "rarity": "COMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_3",
+    "name": "Rubbish Ring of Love",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_1",
+    "name": "§eYellow Rock of Love",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_6",
+    "name": "Classy Ring of Love",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_7",
+    "name": "Exquisite Ring of Love",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_4",
+    "name": "Modest Ring of Love",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_2",
+    "name": "Mediocre Ring of Love",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_0",
+    "name": "§eShiny Yellow Rock",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_8",
+    "name": "Invaluable Ring of Love",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_5",
+    "name": "Refined Ring of Love",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "WEDDING_RING_9",
+    "name": "Legendary Ring of Love",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_8",
+    "name": "Campfire Cultist Badge I",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_11",
+    "name": "Campfire Cultist Badge IV",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_9",
+    "name": "Campfire Cultist Badge II",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_23",
+    "name": "Campfire God Badge III",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_26",
+    "name": "Campfire God Badge VI",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_5",
+    "name": "Campfire Adept Badge II",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_21",
+    "name": "Campfire God Badge I",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_6",
+    "name": "Campfire Adept Badge III",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_10",
+    "name": "Campfire Cultist Badge III",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_13",
+    "name": "Campfire Scion Badge I",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_1",
+    "name": "Campfire Initiate Badge I",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_29",
+    "name": "Campfire God Badge IX",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_28",
+    "name": "Campfire God Badge VIII",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_25",
+    "name": "Campfire God Badge V",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_14",
+    "name": "Campfire Scion Badge II",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_19",
+    "name": "Campfire Scion Badge VII",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_15",
+    "name": "Campfire Scion Badge III",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_2",
+    "name": "Campfire Initiate Badge II",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_18",
+    "name": "Campfire Scion Badge VI",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_24",
+    "name": "Campfire God Badge IV",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_27",
+    "name": "Campfire God Badge VII",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_4",
+    "name": "Campfire Adept Badge I",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_7",
+    "name": "Campfire Adept Badge IV",
+    "rarity": "UNCOMMON",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_16",
+    "name": "Campfire Scion Badge IV",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_3",
+    "name": "Campfire Initiate Badge III",
+    "rarity": null,
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_20",
+    "name": "Campfire Scion Badge VIII",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_17",
+    "name": "Campfire Scion Badge V",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_22",
+    "name": "Campfire God Badge II",
+    "rarity": "LEGENDARY",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "CAMPFIRE_TALISMAN_12",
+    "name": "Campfire Cultist Badge V",
+    "rarity": "RARE",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MELODY_HAIR",
+    "name": "Melody's Hair",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  },
+  {
+    "id": "MAGIC_8_BALL",
+    "name": "Magic 8 Ball",
+    "rarity": "EPIC",
+    "auction_price": null,
+    "craft_price": null,
+    "npc_price": null
+  }
+]
